@@ -11,7 +11,9 @@ DURATION - 8 WEEKS
 
 MENTOR - NEELA SANTOSH
 
-## In Task 2 of the CodTech SQL project, the focus shifted from database creation to advanced data analysis using powerful SQL features like window functions, subqueries, and common table expressions (CTEs). This task utilized the previously created codtech database containing two main tables: IT_Sector and Sector_Projects.
+# DESCRIPTION
+
+In Task 2 of the CodTech SQL project, the focus shifted from database creation to advanced data analysis using powerful SQL features like window functions, subqueries, and common table expressions (CTEs). This task utilized the previously created codtech database containing two main tables: IT_Sector and Sector_Projects.
 
 The analysis began with a window function implementation to rank IT sectors based on the number of projects that had been completed. This was achieved by first creating a temporary result set using a CTE (Common Table Expression) named CompletedProjects, which grouped and counted all completed projects per sector. A RANK() window function was then used in the final SELECT statement to assign a rank to each sector based on the number of completed projects, ordered in descending order. This enabled identification of the top-performing sectors across the organization.
 
