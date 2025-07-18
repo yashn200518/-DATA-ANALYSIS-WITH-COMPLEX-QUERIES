@@ -30,3 +30,4 @@ Lastly, although unrelated to the previous dataset, a final CTE named HighEarner
 Overall, this task showcased the use of modern SQL analytical techniques to extract meaningful insights from relational data. It demonstrated how window functions, subqueries, and CTEs can help analyze performance, identify trends, and support decision-making in an IT business context.
 
 # OUTPUT
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/6af16bce-90ab-4f15-a459-88cf21294c6e" />
